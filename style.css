@@ -7,17 +7,15 @@
   text-align: center;
 }
 
-.DBH {
+.dbh {
   text-align: center;
-  margin: 0%;
+  margin: 30px;
   position: relative;
   background-color: #001845;
-  padding: 30px;
-    margin: 30px;
-   border: 2px solid #001845;
-    height: auto;
+  padding: 30px;   
+  border: 2px solid #001845;
+  height: auto;
 }
-
 .top {
   overflow: hidden;
   background-color: #001233;
@@ -40,6 +38,6 @@
 
 body {
   background-color: #002855;
-  color:aliceblue;
+  color: aliceblue;
   font-family: "Times New Roman", Times, serif;
 }
